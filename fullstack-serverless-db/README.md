@@ -49,7 +49,7 @@ Severless cli is very convenient, it can download templates in any github
 project which should contain `serverless.yml` file.
 
 ```console
-$ serverless create --template-url https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-serverless-db
+$ serverless create --template-url https://github.com/canmengfly/tencent-serverless-demo/tree/master/fullstack-serverless-db
 ```
 
 ### Bootstrap
